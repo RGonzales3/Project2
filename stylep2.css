@@ -1,0 +1,111 @@
+/* Below is my css style code for my tables page */
+
+body {
+    background-color:#929292;
+}
+
+#ht1 {
+    color: #FFFFFF;
+    background-color: #375665;
+    text-align: center;
+    text-shadow: 1px 2px #43375a;
+    padding: 40px;
+    box-shadow: 4px 4px #FFFFFF;
+}
+
+table, th, td {
+    border: 2px solid #43375a;
+    font-size: 110%;
+    background-color: #FFFFFF;
+    text-align: center;
+    color: #365E71;
+    width: 100%;
+}
+
+#pt1 {
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 180%;
+    padding: 10px;
+    text-shadow: 2px 2px #43375a;
+}
+
+#st1 {
+    background-color:#FFFFFF;
+    padding: 40px;
+    text-align: right;
+    box-shadow: 4px 4px #375665;
+    font-size: 130%;
+    margin: 10%;
+}
+
+
+/* Below is my css style code for my form page */
+
+#headerf1 {
+    background-color: #375665;
+    text-align: center;
+    margin-right: 550px;
+    box-shadow: 2px 3px 2px #FFFFFF;
+}
+
+#tf1 {
+    margin-left: 550px;
+    background-color: #365E71;
+}
+
+#h1f1 {
+    color: #FFFFFF;
+    font-size: 200%;
+    text-align: center;
+    text-shadow: 1px 2px #43375a;
+    padding: 50px;
+
+}
+
+form {
+    text-align: center;
+    color: #FFFFFF;
+    text-shadow: 1px 1px #43375a;
+    font-size: 160%;
+    background-color: #365E71;
+    border: 3px solid #FFFFFF;
+    padding: 50px;
+}
+
+/* Below is my css style code for my homepage */
+
+#hs1{
+    color: #FFFFFF;
+    text-align: center;
+    background-color: #234465;
+    text-shadow: 1px 1px #87A9CB;
+}
+
+
+.index {
+    text-align: center;
+    color: #FFFFFF;
+    text-shadow: 1px 1px #234465;
+    font-size: 200%;
+    margin: 40px;
+}
+
+/* Below is my css style code for my siteplan page */
+
+#parasite {
+    text-align: center;
+    color: #FFFFFF;
+    text-shadow: 1px 1px #234465;
+    font-size: 200%;
+    margin: 40px;
+}
+
+img {
+
+    display: block;
+    
+    margin-left: auto;
+    
+    margin-right: auto;
+}
